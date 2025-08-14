@@ -24,19 +24,9 @@ body:
       label: 再現手順
       description: バグを再現するための手順。
       placeholder: |
-        1. ○○の街に行く
-        2. △△と会話する
-        3. 戦闘に入る
-        4. そのターン開始時に止まる
+        ○○の街に行ったあとに、○○に戻るとエラーになる
     validations:
       required: false
-
-  - type: textarea
-    id: expected-behavior
-    attributes:
-      label: 本来の挙動
-      description: 正常時にどう動くべきだったかを書いてください。
-      placeholder: 例）そのまま戦闘が続く
 
   - type: textarea
     id: screenshots
@@ -57,7 +47,7 @@ body:
     id: environment
     attributes:
       label: プレイ環境
-      description: OSやPCスペック、Web版の場合はブラウザの種類など。
+      description: OSやPCスペック、Web版の場合はブラウザの種類など。わかる範囲で大丈夫です。
       placeholder: 例）Windows 11 / メモリ 8GB / GeForce GTX 1650
 
   - type: markdown
