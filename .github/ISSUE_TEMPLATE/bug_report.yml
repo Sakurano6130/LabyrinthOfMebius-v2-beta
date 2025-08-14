@@ -1,0 +1,81 @@
+name: バグ報告
+description: ゲーム内で見つけた不具合やバグを報告してください
+title: "[バグ] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        以下の項目をできるだけ詳しく記入してください。
+        ※公開リポジトリなので個人情報は書かないでください。
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 発生した問題
+      description: 何が起きたか。
+      placeholder: 例）第2章のボス戦でターン開始時にゲームが止まった
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: 再現手順
+      description: バグを再現するための手順。
+      placeholder: |
+        1. ○○の街に行く
+        2. △△と会話する
+        3. 戦闘に入る
+        4. そのターン開始時に止まる
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: 本来の挙動
+      description: 正常時にどう動くべきだったかを書いてください。
+      placeholder: 例）そのまま戦闘が続く
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: スクリーンショット・動画
+      description: 可能であれば添付してください（ドラッグ＆ドロップ可）
+
+  - type: input
+    id: game-version
+    attributes:
+      label: ゲームのバージョン
+      description: タイトル画面に表示されるバージョンを記入してください。
+      placeholder: 2.0.0-beta1
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: プレイ環境
+      description: OSやPCスペック、Web版の場合はブラウザの種類など。
+      placeholder: 例）Windows 11 / メモリ 8GB / GeForce GTX 1650
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        以下は開発者（さくらの えり）が記入します。
+
+  - type: textarea
+    id: cause
+    attributes:
+      label: 原因（開発者記入）
+      description: 不具合の原因が判明したら記入します。
+      placeholder: 例）イベントの条件分岐が誤っていたため
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: 対策・修正内容（開発者記入）
+      description: 修正方法や今後の対応を記入します。
+      placeholder: 例）条件分岐を正しい変数チェックに修正、v2.0.0-beta2で反映予定

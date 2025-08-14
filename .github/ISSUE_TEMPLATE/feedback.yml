@@ -1,0 +1,47 @@
+name: 感想・要望
+description: ゲームの感想や要望、改善案などを送ってください
+title: "[フィードバック] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        プレイしていただきありがとうございます！  
+        感想・要望・改善案など、自由にお書きください。  
+        ※公開リポジトリなので個人情報は書かないでください。
+
+  - type: textarea
+    id: impression
+    attributes:
+      label: プレイした感想
+      description: 面白かったところや気に入った部分などをお書きください。
+      placeholder: 例）戦闘のテンポが良くて楽しい！キャラ同士の会話も好きです。
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestions
+    attributes:
+      label: 改善してほしい点・要望
+      description: 気になった点や改善してほしいことがあれば教えてください。
+      placeholder: 例）戦闘時のメニューの色を見やすくしてほしい。
+
+  - type: textarea
+    id: favorite-character
+    attributes:
+      label: 好きなキャラクター
+      description: 特に印象に残ったキャラや理由などあれば書いてください。
+      placeholder: 例）セリア。優しさと芯の強さが魅力的。
+
+  - type: textarea
+    id: other-comments
+    attributes:
+      label: その他のコメント
+      description: その他伝えたいことや質問などがあれば自由にどうぞ。
+
+  - type: input
+    id: game-version
+    attributes:
+      label: ゲームのバージョン
+      description: タイトル画面に表示されるバージョンを記入してください。
+      placeholder: 2.0.0-beta1

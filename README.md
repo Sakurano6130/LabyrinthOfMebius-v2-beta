@@ -9,6 +9,9 @@
 本バージョンでは第3章までプレイ可能ですが、物語はこの先も続きます。  
 次メジャーバージョンではさらに先のストーリーを追加予定です。
 
+本作は**フリーゲーム**のため、テストプレイは無償となります。  
+ご参加いただいた皆さまには、正式版のクレジットにお名前を掲載する形で感謝をお伝えいたします。
+
 ---
 
 ## ダウンロード
@@ -65,12 +68,12 @@
 - X（Twitter）のDM：[https://x.com/minnon6130](https://x.com/minnon6130)  
 - マシュマロ（匿名可）：[https://marshmallow-qa.com/ukuub080xu072vb](https://marshmallow-qa.com/ukuub080xu072vb)  
 
-※テストプレイの実況・配信・スクリーンショット投稿なども歓迎です。
-#メービウスの迷宮 でぜひ！お願いします！！
-
 不具合情報：
 いただいた不具合情報や、更新状況は GitHub の Issues で随時確認できるようにしたいと思います。
 - Issues [https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/issues](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/issues)
+
+### ※テストプレイの実況・配信・スクリーンショット投稿なども歓迎です。
+`#メービウスの迷宮` でぜひ！お願いします！！
 
 ---
 
