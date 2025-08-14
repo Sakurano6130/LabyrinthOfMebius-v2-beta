@@ -65,10 +65,72 @@
 - その他思ったことなどなんでも！
 
 報告方法：
-- X（Twitter）のDM：[https://x.com/minnon6130](https://x.com/minnon6130)  
-- マシュマロ（匿名可）：[https://marshmallow-qa.com/ukuub080xu072vb](https://marshmallow-qa.com/ukuub080xu072vb)  
+- X（Twitter）のDM：[https://x.com/minnon6130](https://x.com/minnon6130)
+- マシュマロ（匿名可）：[https://marshmallow-qa.com/ukuub080xu072vb](https://marshmallow-qa.com/ukuub080xu072vb)
+- GitHub のアカウントをお持ちの方は、 [Issues](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/issues) に直接投稿いただいても構いません！テンプレートを用意してあります。
 
-不具合情報：
+GitHub のアカウントを持っていない方向けの、報告テンプレート
+
+
+<details>
+<summary>不具合報告用テンプレ（クリックで展開）</summary>
+
+```
+【バージョン】
+（例：2.0.0-beta1）
+
+【発生した問題】
+（何が起きたかを詳しく）
+
+【再現手順】
+
+（例：○○の街に行く）
+
+（例：△△と会話する）
+
+（例：戦闘に入る）
+
+（例：そのターン開始時に止まる）
+
+【本来の挙動】
+（正常時にどう動くべきだったか）
+
+【プレイ環境】
+（例：Windows 11 / メモリ 8GB / GeForce GTX 1650）
+
+【スクリーンショットや動画】
+（あれば添付）
+
+```
+
+</details>
+
+
+<details>
+<summary>感想・要望報告用テンプレ（クリックで展開）</summary>
+
+```
+【バージョン】
+（例：2.0.0-beta1）
+
+【プレイした感想】
+（面白かったところや気に入った部分）
+
+【改善してほしい点・要望】
+（気になったことや改善案）
+
+【好きなキャラクター】
+（理由もあれば）
+
+【その他コメント】
+（自由記入）
+
+```
+
+</details>
+
+---
+
 いただいた不具合情報や、更新状況は GitHub の Issues で随時確認できるようにしたいと思います。
 - Issues [https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/issues](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/issues)
 
