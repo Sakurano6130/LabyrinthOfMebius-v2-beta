@@ -39,7 +39,7 @@ body:
     attributes:
       label: ゲームのバージョン
       description: タイトル画面に表示されるバージョンを記入してください。
-      value: 2.0.0-beta1
+      value: 2.0.0-beta.2
     validations:
       required: true
 

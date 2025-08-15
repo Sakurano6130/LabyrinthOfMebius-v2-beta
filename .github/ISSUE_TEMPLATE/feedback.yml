@@ -44,4 +44,4 @@ body:
     attributes:
       label: ゲームのバージョン
       description: タイトル画面に表示されるバージョンを記入してください。
-      placeholder: 2.0.0-beta1
+      placeholder: 2.0.0-beta.2
