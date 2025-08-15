@@ -22,7 +22,7 @@
 ## 動作環境（Windows版）
 - Windows 10（1809以降）または Windows 11
 - 64ビットPC（x64）
-- メモリ 4GB 以上
+- メモリ 8GB 以上
 - 空き容量 1GB 以上
 - Microsoft Edge WebView2（Evergreen）必須  
   （多くのPCはすでにインストール済みです。  
