@@ -15,7 +15,7 @@
 ---
 
 ## ダウンロード
-[**LabyrinthOfMebius_2.0.0_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.0.0-beta.2/LabyrinthOfMebius_2.0.0_win64.zip)
+[**LabyrinthOfMebius_2.0.0_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.0.0/LabyrinthOfMebius_2.0.0_win64.zip)
 
 ---
 
