@@ -1,4 +1,4 @@
-# 『メービウスの迷宮』 ver.2.2.0  
+# 『メービウスの迷宮』 ver.2.2.2  
 テストプレイ版
 
 ## はじめに
@@ -15,7 +15,7 @@
 ---
 
 ## ダウンロード
-[**LabyrinthOfMebius_2.2.0_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.2.0/LabyrinthOfMebius_2.2.0_win64.zip)
+[**LabyrinthOfMebius_2.2.2_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.2.2/LabyrinthOfMebius_2.2.2_win64.zip)
 
 ---
 
