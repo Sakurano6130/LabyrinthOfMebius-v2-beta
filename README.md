@@ -1,4 +1,4 @@
-# 『メービウスの迷宮』 ver.2.4.3  
+# 『メービウスの迷宮』 ver.2.4.4  
 テストプレイ版
 
 ## はじめに
@@ -15,7 +15,7 @@
 ---
 
 ## ダウンロード
-[**LabyrinthOfMebius_2.4.3_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.4.3/LabyrinthOfMebius_2.4.3_win64.zip)
+[**LabyrinthOfMebius_2.4.4_win64.zip**](https://github.com/Sakurano6130/LabyrinthOfMebius-v2-beta/releases/download/v2.4.4/LabyrinthOfMebius_2.4.4_win64.zip)
 
 ---
 
